@@ -183,8 +183,6 @@ allbois {
   border-width: 6px;
   border-color: var(--light);
 }
-
-
 .smallboi {
   border-style: solid;
   border-color: var(--backdrop);
@@ -233,11 +231,6 @@ a {
 
   text-decoration: none;
 }
- .bigboi img:focus { 
-  -webkit-box-shadow: 200px 200px 200px var(--dark);
-  box-shadow: 200px 200px 200px var(--dark);
-   z-index: 1;
- }
 @media screen and (max-width: 1170px) {
   h5 {
     font-size: 24px;;
