@@ -158,7 +158,6 @@ allbois {
 .body {
   display: flex;
 }
-
 .bigboi {
   display: flex;
   flex-wrap: wrap;
@@ -230,6 +229,7 @@ allbois {
   border-bottom-left-radius: 3rem;
   border-bottom-right-radius: 3rem;
 }
+/* this was added at the bottom so it would cascade correctly */
 a {
 
   text-decoration: none;
